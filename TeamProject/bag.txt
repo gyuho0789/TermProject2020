@@ -1,0 +1,66 @@
+B0150 Parkhood waist bag
+Adidas black 39000 F 5 0
+B0151 Parkhood waist bag
+Adidas white 39000 F 3 0
+B0160 Mini airliner bag
+Adidas silver 69000 F 4 0
+B0170 Ryv map bag
+Adidas black 29000 F 2 0
+B0180 W cla mh backpack
+Adidas Khaki 39000 F 0 0
+F0150 Ward cross body pack
+Vans blue 45000 F 3 0
+F0151 Ward cross body pack
+Vans red 45000 F 4 0
+F0160 Diy fanny pack
+Vans white 39000 F 3 0
+F0161 Diy fanny pack
+Vans orange 39000 F 3 0
+F0170 Old skool backpack
+Vans yellow 55000 F 2 0
+F0171 Old skool backpack
+Vans orange 55000 F 2 0
+G0150 Jacquard monogram hipsack
+MLB navy 89000 F 3 0
+G0160 Fleece bucket bag
+MLB red 89000 F 0 0
+G0161 Fleece bucket bag
+MLB brown 69000 F 2 0
+G0170 Front logo cross bag
+MLB purple 99000 F 0 0
+G0171 Front logo cross bag
+MLB yellow 99000 F 3 0
+G0172 Front logo cross bag
+MLB red 99000 F 1 0
+G0173 Front logo cross bag
+MLB orange 99000 F 3 0
+H0130 Crowcanyon c logo ecobag
+Covernat navy 19000 F 5 0
+H0131 Crowcanyon c logo ecobag
+Covernat brown 19000 F 1 0
+H0140 Codewra samll cross bag
+Covernat beige 39000 F 2 0
+H0141 Codewra samll cross bag
+Covernat navy 39000 F 2 0
+H0142 Codewra samll cross bag
+Covernat black 39000 F 0 0
+H0150 Codewra authentic logo sling bag
+Covernat navy 49000 F 3 0
+H0151 Codewra authentic logo sling bag
+Covernat beige 49000 F 3 0
+I0160 Minimal bar square leather bag and multi card wallet
+SSY black 79000 F 3 0
+I0161 Minimal bar square leather bag and multi card wallet
+SSY brown 79000 F 5 0
+I0162 Minimal bar square leather bag and multi card wallet
+SSY white 79000 F 1 0
+I0170 Passport bag
+SSY black 24000 F 3 0
+J0160 Tech hippack
+NIKE yellow 69000 F 2 0
+J0161 Tech hippack
+NIKE burgandy 69000 F 2 0
+J0170 Academy team football duffle bag
+NIKE black 50000 S 4 M 4 L 2 0
+J0180 Heritage hippack
+NIKE black 33000 S 4 M 1 0

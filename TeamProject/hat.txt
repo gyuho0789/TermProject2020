@@ -1,0 +1,88 @@
+B0130 Trefoil bucket hat
+Adidas white 39000 M 3 L 3 0
+B0140 Baseball cap ct
+Adidas black 25000 M 4 L 3 0
+B0142 Baseball cap ct
+Adidas navy 25000 M 2 L 2 0
+E0110 Unisex cotton logo short beanie
+Filluminate black 25000 F 2 0
+E0111 Unisex cotton logo short beanie
+Filluminate beige 25000 F 5 0
+E0120 Unisex new logo ball cap
+Filluminate charcoal 36000 F 1 0
+E0121 Unisex new logo ball cap
+Filluminate blue 36000 F 1 0
+E0130 Unisex easy short beanie
+Filluminate brown 24000 F 0 0
+E0131 Unisex easy short beanie
+Filluminate burgandy 24000 F 0 0
+E0132 Unisex easy short beanie
+Filluminate ivory 24000 F 1 0
+E0133 Unisex easy short beanie
+Filluminate khaki 24000 F 6 0
+F0120 Supply curved bill jockey
+Vans khaki 35000 F 3 0
+F0121 Supply curved bill jockey
+Vans black 35000 F 3 0
+F0130 Vans curved bill jockey
+Vans red 35000 F 2 0
+F0131 Vans curved bill jockey
+Vans yellow 35000 F 2 0
+F0140 Bruckner cuff beanie
+Vans blue 19000 F 1 0
+F0141 Bruckner cuff beanie
+Vans orange 19000 F 3 0
+G0130 Fleece ear cover cap
+MLB red 69000 F 3 0
+G0131 Fleece ear cover cap
+MLB ivory 69000 F 3 0
+G0140 Check reverse bucket hat
+MLB red 59000 F 1 0
+G0141 Check reverse bucket hat
+MLB yellow 59000 F 5 0
+H0100 Watch cap
+Covernat beige 29000 F 3 0
+H0101 Watch cap
+Covernat black 29000 F 0 0
+H0110 Pigment beanie
+Covernat black 39000 F 1 0
+H0111 Pigment beanie
+Covernat red 39000 F 4 0
+H0112 Pigment beanie
+Covernat brown 39000 F 3 0
+H0120 Duckbill cap
+Covernat black 39000 F 1 0
+H0121 Duckbill cap
+Covernat beige 39000 F 0 0
+I0130 Twoway chain nylon type bucket hat
+SSY black 45000 F 2 0
+I0140 Tyvek crack minimal cap
+SSY white 42000 F 3 0
+I0141 Tyvek crack minimal cap
+SSY black 42000 F 0 0
+I0150 Twotwo iron tip d ring cap
+SSY ivory 46000 F 1 0
+I0151 Twotwo iron tip d ring cap
+SSY black 46000 F 1 0
+J0120 Swoosh legacy ballcap
+NIKE white 32800 F 5 0
+J0121 Swoosh legacy ballcap
+NIKE black 32800 F 1 0
+J0130 Swoosh dryfit ballcap
+NIKE black 368000 F 3 0
+J0131 Swoosh dryfit ballcap
+NIKE white 368000 F 4 0
+J0140 Metal swoosh cap
+NIKE navy 26900 F 2 0
+J0141 Metal swoosh cap
+NIKE white 26900 F 1 0
+J0142 Metal swoosh cap
+NIKE grey 26900 F 5 0
+J0143 Metal swoosh cap
+NIKE black 26900 F 0 0
+J0150 Heritage cap
+NIKE red 49000 F 3 0
+J0151 Heritage cap
+NIKE beige 49000 F 1 0
+J0152 Heritage cap
+NIKE navy 49000 F 3 0
